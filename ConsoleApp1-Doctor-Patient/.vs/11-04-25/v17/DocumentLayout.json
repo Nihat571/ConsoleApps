@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\ConsoleApp\\ConsoleApp1-Doctor-Patient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{689DC0A4-8A57-4BF8-A0B2-675A369DB24D}|11-04-25\\11-04-25.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\consoleapp\\consoleapp1-doctor-patient\\11-04-25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689DC0A4-8A57-4BF8-A0B2-675A369DB24D}|11-04-25\\11-04-25.csproj|solutionrelative:11-04-25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689DC0A4-8A57-4BF8-A0B2-675A369DB24D}|11-04-25\\11-04-25.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\consoleapp\\consoleapp1-doctor-patient\\11-04-25\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689DC0A4-8A57-4BF8-A0B2-675A369DB24D}|11-04-25\\11-04-25.csproj|solutionrelative:11-04-25\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689DC0A4-8A57-4BF8-A0B2-675A369DB24D}|11-04-25\\11-04-25.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\consoleapp\\consoleapp1-doctor-patient\\11-04-25\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689DC0A4-8A57-4BF8-A0B2-675A369DB24D}|11-04-25\\11-04-25.csproj|solutionrelative:11-04-25\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689DC0A4-8A57-4BF8-A0B2-675A369DB24D}|11-04-25\\11-04-25.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\consoleapp\\consoleapp1-doctor-patient\\11-04-25\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689DC0A4-8A57-4BF8-A0B2-675A369DB24D}|11-04-25\\11-04-25.csproj|solutionrelative:11-04-25\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689DC0A4-8A57-4BF8-A0B2-675A369DB24D}|11-04-25\\11-04-25.csproj|c:\\users\\hp\\desktop\\projects - backend(c#)\\consoleapp\\consoleapp1-doctor-patient\\11-04-25\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689DC0A4-8A57-4BF8-A0B2-675A369DB24D}|11-04-25\\11-04-25.csproj|solutionrelative:11-04-25\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\ConsoleApp\\ConsoleApp1-Doctor-Patient\\11-04-25\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "11-04-25\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\ConsoleApp\\ConsoleApp1-Doctor-Patient\\11-04-25\\Models\\Patient.cs",
+              "RelativeToolTip": "11-04-25\\Models\\Patient.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:07:34.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\ConsoleApp\\ConsoleApp1-Doctor-Patient\\11-04-25\\DBContext.cs",
+              "RelativeDocumentMoniker": "11-04-25\\DBContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\ConsoleApp\\ConsoleApp1-Doctor-Patient\\11-04-25\\DBContext.cs",
+              "RelativeToolTip": "11-04-25\\DBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:48:27.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\ConsoleApp\\ConsoleApp1-Doctor-Patient\\11-04-25\\Interfaces\\IPerson.cs",
+              "RelativeDocumentMoniker": "11-04-25\\Interfaces\\IPerson.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\ConsoleApp\\ConsoleApp1-Doctor-Patient\\11-04-25\\Interfaces\\IPerson.cs",
+              "RelativeToolTip": "11-04-25\\Interfaces\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:32:13.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\ConsoleApp\\ConsoleApp1-Doctor-Patient\\11-04-25\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "11-04-25\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\ConsoleApp\\ConsoleApp1-Doctor-Patient\\11-04-25\\Models\\Doctor.cs",
+              "RelativeToolTip": "11-04-25\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:48:43.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\ConsoleApp\\ConsoleApp1-Doctor-Patient\\11-04-25\\Program.cs",
+              "RelativeDocumentMoniker": "11-04-25\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\projects - backend(C#)\\ConsoleApp\\ConsoleApp1-Doctor-Patient\\11-04-25\\Program.cs",
+              "RelativeToolTip": "11-04-25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:28:31.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

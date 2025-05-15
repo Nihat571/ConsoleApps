@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\new Console app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1ADF33-CE6C-4930-B391-5DAA44A159F1}|new Console app\\new Console app.csproj|c:\\users\\hp\\source\\repos\\new console app\\new console app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1ADF33-CE6C-4930-B391-5DAA44A159F1}|new Console app\\new Console app.csproj|solutionrelative:new console app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1ADF33-CE6C-4930-B391-5DAA44A159F1}|new Console app\\new Console app.csproj|c:\\users\\hp\\source\\repos\\new console app\\new console app\\services\\playlistservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1ADF33-CE6C-4930-B391-5DAA44A159F1}|new Console app\\new Console app.csproj|solutionrelative:new console app\\services\\playlistservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1ADF33-CE6C-4930-B391-5DAA44A159F1}|new Console app\\new Console app.csproj|c:\\users\\hp\\source\\repos\\new console app\\new console app\\services\\songservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1ADF33-CE6C-4930-B391-5DAA44A159F1}|new Console app\\new Console app.csproj|solutionrelative:new console app\\services\\songservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1ADF33-CE6C-4930-B391-5DAA44A159F1}|new Console app\\new Console app.csproj|c:\\users\\hp\\source\\repos\\new console app\\new console app\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1ADF33-CE6C-4930-B391-5DAA44A159F1}|new Console app\\new Console app.csproj|solutionrelative:new console app\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1ADF33-CE6C-4930-B391-5DAA44A159F1}|new Console app\\new Console app.csproj|c:\\users\\hp\\source\\repos\\new console app\\new console app\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1ADF33-CE6C-4930-B391-5DAA44A159F1}|new Console app\\new Console app.csproj|solutionrelative:new console app\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayListServices.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\new Console app\\new Console app\\Services\\PlayListServices.cs",
+              "RelativeDocumentMoniker": "new Console app\\Services\\PlayListServices.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\new Console app\\new Console app\\Services\\PlayListServices.cs",
+              "RelativeToolTip": "new Console app\\Services\\PlayListServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:20:30.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SongServices.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\new Console app\\new Console app\\Services\\SongServices.cs",
+              "RelativeDocumentMoniker": "new Console app\\Services\\SongServices.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\new Console app\\new Console app\\Services\\SongServices.cs",
+              "RelativeToolTip": "new Console app\\Services\\SongServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:28:05.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayList.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\new Console app\\new Console app\\Models\\PlayList.cs",
+              "RelativeDocumentMoniker": "new Console app\\Models\\PlayList.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\new Console app\\new Console app\\Models\\PlayList.cs",
+              "RelativeToolTip": "new Console app\\Models\\PlayList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:27:07.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\new Console app\\new Console app\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "new Console app\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\new Console app\\new Console app\\Models\\Song.cs",
+              "RelativeToolTip": "new Console app\\Models\\Song.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:22:52.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\new Console app\\new Console app\\Program.cs",
+              "RelativeDocumentMoniker": "new Console app\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\new Console app\\new Console app\\Program.cs",
+              "RelativeToolTip": "new Console app\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:18:13.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

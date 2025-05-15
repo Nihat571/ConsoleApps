@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\obj\Debug\net8.0\Console App (22 aprel).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\obj\Debug\net8.0\Console App (22 aprel).AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\obj\Debug\net8.0\Console App (22 aprel).AssemblyInfo.cs
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\obj\Debug\net8.0\Console App (22 aprel).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\bin\Debug\net8.0\Console App (22 aprel).exe
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\bin\Debug\net8.0\Console App (22 aprel).deps.json
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\bin\Debug\net8.0\Console App (22 aprel).runtimeconfig.json
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\bin\Debug\net8.0\Console App (22 aprel).dll
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\bin\Debug\net8.0\Console App (22 aprel).pdb
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\obj\Debug\net8.0\Console App (22 aprel).dll
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\obj\Debug\net8.0\refint\Console App (22 aprel).dll
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\obj\Debug\net8.0\Console App (22 aprel).pdb
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\obj\Debug\net8.0\Console App (22 aprel).genruntimeconfig.cache
+C:\Users\HP\source\repos\Console App (22 aprel)\Console App (22 aprel)\obj\Debug\net8.0\ref\Console App (22 aprel).dll

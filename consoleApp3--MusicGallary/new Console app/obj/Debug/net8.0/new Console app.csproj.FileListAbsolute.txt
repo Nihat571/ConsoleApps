@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\new Console app\new Console app\bin\Debug\net8.0\new Console app.exe
+C:\Users\HP\source\repos\new Console app\new Console app\bin\Debug\net8.0\new Console app.deps.json
+C:\Users\HP\source\repos\new Console app\new Console app\bin\Debug\net8.0\new Console app.runtimeconfig.json
+C:\Users\HP\source\repos\new Console app\new Console app\bin\Debug\net8.0\new Console app.dll
+C:\Users\HP\source\repos\new Console app\new Console app\bin\Debug\net8.0\new Console app.pdb
+C:\Users\HP\source\repos\new Console app\new Console app\obj\Debug\net8.0\new Console app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\new Console app\new Console app\obj\Debug\net8.0\new Console app.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\new Console app\new Console app\obj\Debug\net8.0\new Console app.AssemblyInfo.cs
+C:\Users\HP\source\repos\new Console app\new Console app\obj\Debug\net8.0\new Console app.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\new Console app\new Console app\obj\Debug\net8.0\new Console app.dll
+C:\Users\HP\source\repos\new Console app\new Console app\obj\Debug\net8.0\refint\new Console app.dll
+C:\Users\HP\source\repos\new Console app\new Console app\obj\Debug\net8.0\new Console app.pdb
+C:\Users\HP\source\repos\new Console app\new Console app\obj\Debug\net8.0\new Console app.genruntimeconfig.cache
+C:\Users\HP\source\repos\new Console app\new Console app\obj\Debug\net8.0\ref\new Console app.dll

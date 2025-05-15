@@ -1,0 +1,45 @@
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\bin\Debug\net8.0\11-04-25.exe
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\bin\Debug\net8.0\11-04-25.deps.json
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\bin\Debug\net8.0\11-04-25.runtimeconfig.json
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\bin\Debug\net8.0\11-04-25.dll
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\bin\Debug\net8.0\11-04-25.pdb
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\obj\Debug\net8.0\11-04-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\obj\Debug\net8.0\11-04-25.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\obj\Debug\net8.0\11-04-25.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\obj\Debug\net8.0\11-04-25.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\obj\Debug\net8.0\11-04-25.sourcelink.json
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\obj\Debug\net8.0\11-04-25.dll
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\obj\Debug\net8.0\refint\11-04-25.dll
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\obj\Debug\net8.0\11-04-25.pdb
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\obj\Debug\net8.0\11-04-25.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\11-04-25\11-04-25\obj\Debug\net8.0\ref\11-04-25.dll
+C:\Users\HP\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.AssemblyInfoInputs.cache
+C:\Users\HP\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.AssemblyInfo.cs
+C:\Users\HP\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.csproj.CoreCompileInputs.cache
+C:\Users\HP\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.sourcelink.json
+C:\Users\HP\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.dll
+C:\Users\HP\ConsoleApp\11-04-25\obj\Debug\net8.0\refint\11-04-25.dll
+C:\Users\HP\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.pdb
+C:\Users\HP\ConsoleApp\11-04-25\bin\Debug\net8.0\11-04-25.exe
+C:\Users\HP\ConsoleApp\11-04-25\bin\Debug\net8.0\11-04-25.deps.json
+C:\Users\HP\ConsoleApp\11-04-25\bin\Debug\net8.0\11-04-25.runtimeconfig.json
+C:\Users\HP\ConsoleApp\11-04-25\bin\Debug\net8.0\11-04-25.dll
+C:\Users\HP\ConsoleApp\11-04-25\bin\Debug\net8.0\11-04-25.pdb
+C:\Users\HP\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.genruntimeconfig.cache
+C:\Users\HP\ConsoleApp\11-04-25\obj\Debug\net8.0\ref\11-04-25.dll
+C:\Users\II Novbe\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.AssemblyInfoInputs.cache
+C:\Users\II Novbe\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.AssemblyInfo.cs
+C:\Users\II Novbe\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.sourcelink.json
+C:\Users\II Novbe\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.dll
+C:\Users\II Novbe\ConsoleApp\11-04-25\obj\Debug\net8.0\refint\11-04-25.dll
+C:\Users\II Novbe\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.pdb
+C:\Users\II Novbe\ConsoleApp\11-04-25\bin\Debug\net8.0\11-04-25.exe
+C:\Users\II Novbe\ConsoleApp\11-04-25\bin\Debug\net8.0\11-04-25.deps.json
+C:\Users\II Novbe\ConsoleApp\11-04-25\bin\Debug\net8.0\11-04-25.runtimeconfig.json
+C:\Users\II Novbe\ConsoleApp\11-04-25\bin\Debug\net8.0\11-04-25.dll
+C:\Users\II Novbe\ConsoleApp\11-04-25\bin\Debug\net8.0\11-04-25.pdb
+C:\Users\II Novbe\ConsoleApp\11-04-25\obj\Debug\net8.0\11-04-25.genruntimeconfig.cache
+C:\Users\II Novbe\ConsoleApp\11-04-25\obj\Debug\net8.0\ref\11-04-25.dll

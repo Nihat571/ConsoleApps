@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Console App (22 aprel)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D3FD87-0513-4AFD-A422-EC944BDB79D4}|Console App (22 aprel)\\Console App (22 aprel).csproj|c:\\users\\hp\\source\\repos\\console app (22 aprel)\\console app (22 aprel)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D3FD87-0513-4AFD-A422-EC944BDB79D4}|Console App (22 aprel)\\Console App (22 aprel).csproj|solutionrelative:console app (22 aprel)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D3FD87-0513-4AFD-A422-EC944BDB79D4}|Console App (22 aprel)\\Console App (22 aprel).csproj|c:\\users\\hp\\source\\repos\\console app (22 aprel)\\console app (22 aprel)\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D3FD87-0513-4AFD-A422-EC944BDB79D4}|Console App (22 aprel)\\Console App (22 aprel).csproj|solutionrelative:console app (22 aprel)\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D3FD87-0513-4AFD-A422-EC944BDB79D4}|Console App (22 aprel)\\Console App (22 aprel).csproj|c:\\users\\hp\\source\\repos\\console app (22 aprel)\\console app (22 aprel)\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D3FD87-0513-4AFD-A422-EC944BDB79D4}|Console App (22 aprel)\\Console App (22 aprel).csproj|solutionrelative:console app (22 aprel)\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D3FD87-0513-4AFD-A422-EC944BDB79D4}|Console App (22 aprel)\\Console App (22 aprel).csproj|c:\\users\\hp\\source\\repos\\console app (22 aprel)\\console app (22 aprel)\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D3FD87-0513-4AFD-A422-EC944BDB79D4}|Console App (22 aprel)\\Console App (22 aprel).csproj|solutionrelative:console app (22 aprel)\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D3FD87-0513-4AFD-A422-EC944BDB79D4}|Console App (22 aprel)\\Console App (22 aprel).csproj|c:\\users\\hp\\source\\repos\\console app (22 aprel)\\console app (22 aprel)\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D3FD87-0513-4AFD-A422-EC944BDB79D4}|Console App (22 aprel)\\Console App (22 aprel).csproj|solutionrelative:console app (22 aprel)\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Console App (22 aprel)\\Console App (22 aprel)\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Console App (22 aprel)\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Console App (22 aprel)\\Console App (22 aprel)\\Models\\Room.cs",
+              "RelativeToolTip": "Console App (22 aprel)\\Models\\Room.cs",
+              "ViewState": "AgIAAA0AAAAAMzMzMzMnwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:52:56.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Console App (22 aprel)\\Console App (22 aprel)\\Services\\HotelService.cs",
+              "RelativeDocumentMoniker": "Console App (22 aprel)\\Services\\HotelService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Console App (22 aprel)\\Console App (22 aprel)\\Services\\HotelService.cs",
+              "RelativeToolTip": "Console App (22 aprel)\\Services\\HotelService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:57:18.186Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Console App (22 aprel)\\Console App (22 aprel)\\Program.cs",
+              "RelativeDocumentMoniker": "Console App (22 aprel)\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Console App (22 aprel)\\Console App (22 aprel)\\Program.cs",
+              "RelativeToolTip": "Console App (22 aprel)\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwEUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:48:31.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Console App (22 aprel)\\Console App (22 aprel)\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Console App (22 aprel)\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Console App (22 aprel)\\Console App (22 aprel)\\Models\\Hotel.cs",
+              "RelativeToolTip": "Console App (22 aprel)\\Models\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:59:51.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Console App (22 aprel)\\Console App (22 aprel)\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Console App (22 aprel)\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Console App (22 aprel)\\Console App (22 aprel)\\Services\\RoomService.cs",
+              "RelativeToolTip": "Console App (22 aprel)\\Services\\RoomService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:51:05.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
